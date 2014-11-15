@@ -8,8 +8,5 @@ alter005
 alter006
 i am on master
 i am on dev
-<<<<<<< Updated upstream
 jira001 hotfix
-=======
 i am test fzz
->>>>>>> Stashed changes
